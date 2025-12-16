@@ -7,6 +7,10 @@ document.addEventListener('DOMContentLoaded', () => {
         } else {
             header.classList.remove('scrolled');
         }
+
+        const footerContent = document.querySelector('.footer-content');
+        const currentYear = new Date().getFullYear();
+        footerContent.innerHTML = `&copy; ${currentYear} Ahmad Abdallah.`;
     });
 
     // Scroll Reveal Animation
